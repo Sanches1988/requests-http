@@ -3,7 +3,7 @@ import os
 import requests
 from requests.models import Response
 
-TOKEN = 'AQAAAAAFHjZVAADLW4LcV3o5B00gv_erCCH_SOg'
+TOKEN = ''
 
 class YaUploader:
     def __init__(self, token: str):
